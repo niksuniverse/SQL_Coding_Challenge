@@ -1,7 +1,4 @@
--- ================================================================
--- 🐾 PetPals – Pet Adoption Platform
--- Full Schema + Sample Data + Stored Procedures + Queries
--- ================================================================
+
 
 # 🚀 PetPals_SQL_Assignment  
 🐾 A comprehensive SQL backend system for managing pet adoption, shelters, donations, and adoption events.
